@@ -1,0 +1,5 @@
+"D:\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "E:\Alina\PCC Class Note\CS\C++\CS 08 retake\sfml\LogoMaker"
+-- Found SFML .. in D:/SFML-2.5.1/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Alina/PCC Class Note/CS/C++/CS 08 retake/sfml/LogoMaker/cmake-build-debug
