@@ -24,6 +24,7 @@ Users can customize the text, front, color, opacity, size, position, and shadow 
 ![image](https://user-images.githubusercontent.com/75402059/191611640-afbba847-0238-4494-bbf3-69fc5972aa85.png)
 
 There also have a homemade advertising video of this Logo Maker called "LogoMakerAD.mp4".
+
 And, there is a runing code presentasion called "LogoMaker.mp4".
 
 The program done in 6/7/2021.
