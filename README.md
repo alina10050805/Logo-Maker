@@ -27,5 +27,7 @@ There also have a homemade advertising video of this Logo Maker called "LogoMake
 
 And, there is a runing code presentasion called "LogoMaker.mp4".
 
+
 The program done in 6/7/2021.
+
 Write by Xiangyi Lin.
